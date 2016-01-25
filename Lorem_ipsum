@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link href="css/new-styles.css" rel="stylesheet" type="text/css" media="all">
+			<title>Paragraphs!</title>
+		</head>
+
+		<body>
+			<h1>paragraphs of text!</h1>
+			<h2>PLus an intro at the top</h2>
+
+			<p>Here's an intro Lorem ipsum dolor sit amet, justo diceret appellantur ad vel. Ridens mnesarchum consectetuer nec at, quo detracto abhorreant ea. Id sit dolore contentiones, ad mei regione contentiones. Graeco antiopam vis eu, ius liber simul eu, te decore latine pri. Qui ea oratio labore quaeque. Detraxit intellegat duo ut.
+			</p>
+
+			<p>And here is the full version. 
+			Eu nemore essent complectitur usu, dicit suscipiantur delicatissimi eam an. Elit maluisset disputationi nam ex, est doctus impetus indoctum et, docendi vituperata id nec. Ut eum munere albucius, vix an natum percipit appellantur. Ea est ignota laboramus, lorem erant quo ei. Mei dolore lucilius vituperatoribus ea, esse fabulas commune cum eu.
+			</p>ß
+	
+		</body>
+	</html>
